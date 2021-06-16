@@ -1,3 +1,5 @@
+// See the problem statement here: https://www.hackerrank.com/challenges/playing-with-characters/problem
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
